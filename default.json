@@ -4,7 +4,7 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["patch"],
-      "groupName": "patch upgrades"
+      "groupName": "dependencies (patch)"
     },
     {
       "matchPackagePatterns": ["node"],
