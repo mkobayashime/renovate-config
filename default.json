@@ -1,6 +1,7 @@
 {
   "extends": ["config:base"],
   "rangeStrategy": "pin",
+  "labels": ["dependencies"],
   "packageRules": [
     {
       "matchUpdateTypes": ["patch"],
