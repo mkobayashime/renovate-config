@@ -3,6 +3,7 @@
   "extends": ["config:base"],
   "rangeStrategy": "pin",
   "labels": ["dependencies"],
+  "minimumReleaseAge": "7 days",
   "packageRules": [
     {
       "matchUpdateTypes": ["patch"],
